@@ -1,8 +1,8 @@
 
-## Olá, deevs!!👋 
+## Olá, deevs!!💜
 
 
-Me chamo Gabrieli Mendes, sou de Belém/PA terrinha do açai. Gosto de ler, estudar, assistir uma seriezinha de romance e, é claro me aventurar no universo da programação. Criadora oficial de bugs, passo raiva porque esqueci uma virgulazinha mas depois vale a pena ver tudo funcionando. Quanto mais aprendo mais eu amo tudo isso. ❤️💗 <br>
+Me chamo Gabrieli Mendes, sou de Belém/PA terrinha do açai. Gosto de ler, estudar, assistir uma seriezinha de romance e, é claro me aventurar no universo da programação. Criadora oficial de bugs, passo raiva porque esqueci uma virgulazinha mas depois vale a pena ver tudo funcionando. Quanto mais aprendo mais eu amo tudo isso. 💜 <br>
 
 <p align="center"> <img src="https://media.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif" alt="Gumball e Darwin no computador"/></p> 
 
