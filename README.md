@@ -1,15 +1,15 @@
 
-## Olá, deevs!!! 
+## Olá, deevs!!👋 
 
 
-👋 Me chamo Gabrieli Mendes, sou de Belém/PA terrinha do açai. Eu gosto de ler, estudar, assistir uma seriezinha de romance e, é claro me aventurar no universo da programação. Criadora oficial de bugs, passo raiva porque esqueci uma virgulazinha mas depois vale a pena ver tudo funcionando. Quanto mais aprendo mais eu amo tudo isso. ❤️💗 <br>
+Me chamo Gabrieli Mendes, sou de Belém/PA terrinha do açai. Gosto de ler, estudar, assistir uma seriezinha de romance e, é claro me aventurar no universo da programação. Criadora oficial de bugs, passo raiva porque esqueci uma virgulazinha mas depois vale a pena ver tudo funcionando. Quanto mais aprendo mais eu amo tudo isso. ❤️💗 <br>
 
 <p align="center"> <img src="https://media.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif" alt="Gumball e Darwin no computador"/></p> 
 
 
- 💻 Formada em Ciência da Computação, estou focada em me tornar uma desenvolvedora Front-End Júnior. Tenho uma base sólida em lógica de programação, conhecimentos de hardware e sistemas operacionais.<br>
+ 💻 Formada em Ciência da Computação, estou focada em me tornar uma desenvolvedora front-end. Tenho uma base sólida em lógica de programação, conhecimentos de hardware e sistemas operacionais.<br>
  
- 🚀 Sigo estudando e me aperfeiçoando em HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js e outras ferramentas que uso no dia a dia, como Git, GitHub e Figma.<br>
+ 🚀 Sigo estudando e me aperfeiçoando em HTML5, CSS3, JavaScript (ES6+) e começando a estudar TypeScript, React.js e outras ferramentas que uso no dia a dia, como Git, GitHub e Figma.<br>
   
 🛠️ Gosto muito de colocar a mão na massa, tenho crindo projetos para praticar, melhorar meu portfólio e aplicar boas práticas, principalmente em responsividade e controle de versão.<br>
 
