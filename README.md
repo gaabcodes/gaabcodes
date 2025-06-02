@@ -21,7 +21,7 @@ Me chamo Gabrieli Mendes, sou de Belém/PA terrinha do açai. Gosto de ler, estu
 <div align="center">
 <a href="https://instagram.com/ellaesgaab" target="_blank"><img width="50" height="50" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram-new"/></a>
 <a href="https://discord.gg/wagxzStdcR" target="_blank"><img width="50" height="50" src="https://img.icons8.com/nolan/64/discord.png" alt="discord"/></a>
-<a href = "mailto:gmendeshs@gmail.com"><img width="50" height="50" src="https://img.icons8.com/nolan/64/gmail.png" alt="gmail"/></a>
+<a href = "mailto:gmendeshs@gmail.com" target="_blank"><img width="50" height="50" src="https://img.icons8.com/nolan/64/gmail.png" alt="gmail"/></a>
 <a href="https:/www.linkedin.com/in/gabrieli-de-oliveira-mendes" target="_blank"><img width="50" height="50" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/></a>
 </div>
 
