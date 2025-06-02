@@ -1,4 +1,3 @@
-<div align="right"> <img src="https://raw.githubusercontent.com/gaabcodes/gaabcodes/main/octocat.png" alt="Octocat" width="300" height="300" style="margin-bottom: 0;"> </div> 
 
 ## Olá, deevs!!! 
 
@@ -14,7 +13,9 @@
   
 🛠️ Gosto muito de colocar a mão na massa, tenho crindo projetos para praticar, melhorar meu portfólio e aplicar boas práticas, principalmente em responsividade e controle de versão.<br>
 
-🎯 Estou super animada para conseguir minha primeira oportunidade como dev front-end, aprender ainda mais e fazer parte de uma equipe onde eu possa evoluir e contribuir!<br>
+🎯 Estou super animada para conseguir minha primeira oportunidade como dev front-end, aprender ainda mais e fazer parte de uma equipe onde eu possa evoluir e contribuir!
+
+<div align="center"> <img src="https://raw.githubusercontent.com/gaabcodes/gaabcodes/main/octocat.png" alt="Octocat" width="300" height="300"></div> 
 
 <h3 align="center">Minhas Redes Sociais:</h3>
 <div align="center">
@@ -23,6 +24,8 @@
 <a href = "mailto:gmendeshs@gmail.com"><img width="50" height="50" src="https://img.icons8.com/nolan/64/gmail.png" alt="gmail"/></a>
 <a href="https:/www.linkedin.com/in/gabrieli-de-oliveira-mendes" target="_blank"><img width="50" height="50" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/></a>
 </div>
+
+##
 
 <h3 align="center">Tecnologias e Ferramentas:</h3>
 
