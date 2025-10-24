@@ -7,13 +7,13 @@ Me chamo Gabrieli Mendes, sou de Belém/PA terrinha do açai. Gosto de ler, estu
 <p align="center"> <img src="https://media.giphy.com/media/1eEH7dQ2xwN95RwGQf/giphy.gif" alt="Gumball e Darwin no computador"/></p> 
 
 
- 💻 Formada em Ciência da Computação, estou focada em me tornar uma desenvolvedora front-end. Tenho base sólida em lógica de programação, conhecimentos de hardware e sistemas operacionais.<br>
+ 💻 Formada recentemente em Ciência da Computação, estou focada em me tornar uma desenvolvedora Front-End. Tenho base sólida em lógica de programação, conhecimentos de hardware e sistemas operacionais.<br>
  
- 🚀 Sigo estudando e me aperfeiçoando em HTML5, CSS3, JavaScript (ES6+) e começando a estudar TypeScript, React.js e outras ferramentas que uso no dia a dia, como Git, GitHub e Figma.<br>
+📚 No momento estou me aperfeiçoando em HTML5, CSS3, JavaScript e começando a estudar TypeScript, React.js e outras ferramentas que uso no dia a dia, como Git, GitHub e Figma.<br>
   
-🛠️ Gosto muito de colocar a mão na massa, tenho criado projetos para praticar, melhorar meu portfólio e aplicar boas práticas, principalmente em responsividade e controle de versão.<br>
+🛠️ Gosto de ver as coisas acontecendo, tenho praticado bastante apesar de projetos básicos tenho construindo base para projetos mais avançados e poder evoluir na carreidesenvolvedor.<br>
 
-🎯 Estou super animada para conseguir minha primeira oportunidade como dev front-end, aprender ainda mais e fazer parte de uma equipe onde eu possa evoluir e contribuir!
+🎯 Estou motivada a conquistar minha primeira oportunidade como desenvolvedora sou dedicada, esforçada, tenho vontade de aprender, contribuir com a equipe e poder aprimorar meus conhecimentos.
 
 <div align="center"> <img src="https://raw.githubusercontent.com/gaabcodes/gaabcodes/main/octocat.png" alt="Octocat" width="300" height="300"></div> 
 
